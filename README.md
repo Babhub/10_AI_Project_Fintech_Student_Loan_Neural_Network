@@ -1,2 +1,2 @@
-# 10_AI_Project_Fintech_Student_Loan_Neural_Network
-10_AI_Project_Fintech_Student_Loan_Neural_Network
+# Neural-Network-Challange01
+Student Credit Score Prediction 
